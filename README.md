@@ -1,2 +1,2 @@
 # .ico-file-converter
-This program converts images to .ico files
+This program makes it easy to convert all images in a selected folder to .ico files
